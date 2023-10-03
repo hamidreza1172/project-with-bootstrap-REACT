@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Kanit:wght@400;500&family=Noto+Sans+Arabic&family=Poppins:wght@400;700&family=Raleway:wght@100;200;300;500;600;700;800;900&display=swap');
+.imgcar{
+   width: 100%;
+    height:400px;
+    object-fit: cover;
+}
+.imgca1{
+    padding: 0;
+    margin: 0;
+  object-fit: cover;
+   max-width:fit-content;
+  
+    min-height: 100%;
+    border-radius: 30px;
+    box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.5);
+
+}
+.img2{
+    object-fit:cover;
+}
+.carparent{
+ max-height:600px;
+
+}
+
+.background{
+    background-color: rgb(222, 222, 222);
+}
+.dirr{
+    direction: rtl;
+    font-weight: bold;
+    font-family: Inter;
+}
+.swiperbottom{
+    background: #c2bebe;
+}

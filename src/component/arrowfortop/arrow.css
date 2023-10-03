@@ -1,0 +1,10 @@
+.btnarrow{
+   color: #480303;
+   font-size: 70px;
+   font-weight: bolder;
+   z-index: 1000;
+   text-align: center;
+   position: fixed;
+   bottom: 150px;
+   left: 70px;
+}

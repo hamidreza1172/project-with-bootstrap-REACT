@@ -1,0 +1,24 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Kanit:wght@400;500&family=M+PLUS+Rounded+1c:wght@300;400;500&family=Noto+Sans+Arabic&family=Poppins:wght@400;700&family=Raleway:wght@100;200;300;500;600;700;800;900&display=swap');
+*{
+    font-family: Inter;
+}
+.contact-page-container{
+    background-color: #c9c8c8c4;
+}
+.img-contactus-center{
+    width: 50%;
+    height:50%;
+    border-radius: 50%;
+    transition: all 0.4s ease-in-out;
+}
+
+.cart1:hover{
+    transition: all 0.4s ease-in-out;
+    transform: scale(1.1);
+    color: brown;
+}
+.scalebtn:hover{
+    transform: scale(1.2);
+    transition: all 0.4s ease-in-out;
+}
